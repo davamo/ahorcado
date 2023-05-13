@@ -1,0 +1,22 @@
+Juego del ahorcado
+Este es un juego de ahorcado programado en Ruby, en el que el jugador debe adivinar una palabra seleccionada aleatoriamente de un conjunto de palabras disponibles. El juego se desarrolla por consola y el jugador tiene un número limitado de intentos para adivinar la palabra.
+
+Requisitos
+Para poder jugar este juego, necesitarás tener Ruby instalado en tu computadora.
+
+Cómo jugar
+Para jugar al juego, sigue estos pasos:
+
+Descarga el archivo nombre_del_archivo.rb.
+Abre una terminal y navega hasta la carpeta donde se encuentra el archivo.
+Ejecuta el siguiente comando en la terminal:
+Copy code
+ruby nombre_del_archivo.rb
+Reemplaza "nombre_del_archivo" con el nombre real del archivo que descargaste.
+
+El juego comenzará y se te mostrará el número de letras de la palabra que debes adivinar. Ingresa una letra a la vez para intentar adivinar la palabra. Si adivinas una letra, se te mostrará en la posición correspondiente en la palabra. Si no adivinas una letra, perderás un intento y se te mostrará cuántos intentos te quedan. El juego terminará cuando adivines la palabra o se te acaben los intentos.
+Personalización
+Si deseas personalizar el conjunto de palabras disponibles, puedes modificar el array palabras_disponibles que se encuentra en el archivo nombre_del_archivo.rb. Simplemente agrega o elimina palabras según sea necesario.
+
+Créditos
+Este juego fue creado por davamo.
